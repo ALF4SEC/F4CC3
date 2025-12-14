@@ -36,6 +36,6 @@ Soy estudiante de Ingeniería Informática, con experiencia práctica en proyect
 - **[Proyecto 1](#)** – Breve descripción del proyecto backend o de seguridad (API, auth, etc.).
 - **[Proyecto 2](#)** – Breve descripción (por ejemplo, herramienta/scripts para automatizar tareas).
 - **[Proyecto 3](#)** – Breve descripción (por ejemplo, proyecto de red o de criptografía).
-- 
+  
 ## 📫 Cómo contactarme
 - Email: alfonso.cregcalv@gmail.com
