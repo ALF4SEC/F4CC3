@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alfonso
 
-Soy estudiante de Ingeniería Informática, con experiencia práctica en proyectos académicos y laboratorios de seguridad de redes, criptografía y administración de sistemas.
+Soy estudiante de Ingeniería Informática de la USAL.
 
 ## 🚀 Sobre mí
 - 🎓 4º año de Grado en Ingeniería Informática.
@@ -31,11 +31,5 @@ Soy estudiante de Ingeniería Informática, con experiencia práctica en proyect
 - Prácticas con certificados digitales, TLS y cifrado (RSA, ECC, AES).
 - Uso de herramientas de pentesting en entornos controlados.
 
-## 📂 Proyectos destacados
-
-- **[Proyecto 1](#)** – Breve descripción del proyecto backend o de seguridad (API, auth, etc.).
-- **[Proyecto 2](#)** – Breve descripción (por ejemplo, herramienta/scripts para automatizar tareas).
-- **[Proyecto 3](#)** – Breve descripción (por ejemplo, proyecto de red o de criptografía).
-  
 ## 📫 Cómo contactarme
 - Email: alfonso.cregcalv@gmail.com
